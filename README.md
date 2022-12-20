@@ -1,3 +1,7 @@
+# Finally my Porfolio
+
+do visit on https://shabbirumrali.netlify.app/ and checkout my latest project and blogs, I will be updating this site on a weekly basis
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
